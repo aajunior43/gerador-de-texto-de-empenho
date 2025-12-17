@@ -1,5 +1,5 @@
 {
-  "name": "Gerador de Notas de Empenho",
+  "name": "GERADOR DE NOTAS DE EMPENHO",
   "description": "Gera descrições automáticas para notas de empenho a partir de documentos (PDF ou Imagens), formatadas em caixa alta e padronizadas.",
   "requestFramePermissions": []
 }

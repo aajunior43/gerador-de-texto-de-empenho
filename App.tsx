@@ -123,7 +123,7 @@ const App: React.FC = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-3xl font-extrabold text-gray-200 tracking-tight sm:text-4xl drop-shadow-sm">
-            Gerador de Empenho
+            GERADOR DE EMPENHO
           </h1>
           <p className="mt-4 text-lg text-gray-400 font-medium">
             Arraste um documento e gere a descrição automaticamente.
